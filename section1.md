@@ -5,7 +5,10 @@
 [Git Tutorial](/section3.md)
 
 ## What is Vi?
-Vi is a visual editor for Linux and Unix. It allows you to view edits on a document as they are made. It uses an insert and a command mode to efficiently draw a border between command input and text editing.
+Vi is a visual editor for Linux and Unix. It allows you to view edits on a document as they are made. It uses an insert and a command mode to efficiently draw a border between command input and text editing. It also allows access to GitHub with the ability to make commits and push files right from the terminal.
+
+## Modes?
+Vi has a command and an insert mode. You can enter insert mode with the 'i' key to be able to enter text. The 'esc' key goes into command mode where you can enter commands such as !q (quit).
 
 ## Commands
 * **cd** - change directory
