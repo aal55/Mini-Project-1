@@ -6,6 +6,8 @@
 2. Give your repository a name (and a README and gitignore if you want)
 ## Forking vs. Cloning
 
+## Branches
+
 ## Pull Request
 
 ## Adding a Collaborator
