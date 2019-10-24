@@ -4,6 +4,10 @@
 
 [Git Tutorial](/section3.md)
 
+## What is Vi?
+Vi is a visual editor for Linux and Unix. It allows you to view edits on a document as they are made. It uses an insert and a command mode to efficiently draw a border between command input and text editing.
+
+## Commands
 * **cd** - change directory
    * cd (directory name)
    
