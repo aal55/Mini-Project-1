@@ -43,3 +43,6 @@
    
 * **file paths in Linux** - readable location of a file
    * tab key to autocomplete when typing out a file path
+   
+
+![Vi terminal](https://www.howtogeek.com/wp-content/uploads/2012/01/vi-tutorial-6.png)
