@@ -1,5 +1,5 @@
 # Mini-Project-1
-About Vi
+[About Vi](/section1.md)
 
 GitFlow WorkFlow Tutorial
 
