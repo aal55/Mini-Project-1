@@ -9,3 +9,4 @@
 * Added definitions to section1.md - Andrey Morales (anmorales-hub)
 * Added topics to section3.md - Aaron Leu (aal55)
 * Added step to section3.md - Aaron Leu (aal55)
+* Added step to section3.md - Aaron Leu (aal55)
