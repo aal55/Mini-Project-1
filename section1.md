@@ -2,6 +2,8 @@
 
 [Homepage](/README.md)
 
+[Git/Work Flow](/section2.md)
+
 [Git Tutorial](/section3.md)
 
 ## What is Vi?
