@@ -7,3 +7,5 @@
 
 ## 10/24/2019
 * Added definitions to section1.md - Andrey Morales (anmorales-hub)
+* Added topics to section3.md - Aaron Leu (aal55)
+
