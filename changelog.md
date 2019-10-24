@@ -9,4 +9,7 @@
 * Added definitions to section1.md - Andrey Morales (anmorales-hub)
 * Added topics to section3.md - Aaron Leu (aal55)
 * Added examples, additional subtopics, and an image to section1.md - Andrey Morales (anmorales-hub)
-
+* Added step to section3.md - Aaron Leu (aal55)
+* Added step to section3.md - Aaron Leu (aal55)
+* Added step to section3.md - Aaron Leu (aal55)
+* Added another topic to section3.md - Aaron Leu (aal55)
