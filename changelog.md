@@ -10,3 +10,5 @@
 * Added topics to section3.md - Aaron Leu (aal55)
 * Added step to section3.md - Aaron Leu (aal55)
 * Added step to section3.md - Aaron Leu (aal55)
+* Added step to section3.md - Aaron Leu (aal55)
+* Added another topic to section3.md - Aaron Leu (aal55)
