@@ -13,3 +13,5 @@
 * Added step to section3.md - Aaron Leu (aal55)
 * Added step to section3.md - Aaron Leu (aal55)
 * Added another topic to section3.md - Aaron Leu (aal55)
+* Added section header to section2.md - Kruti Narasu (snkruti)
+* Added definitions to section2.md - Kruti Narasu (snkruti)
