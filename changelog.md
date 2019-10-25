@@ -10,3 +10,4 @@
 * Added topics to section3.md - Aaron Leu (aal55)
 * Added steps to section3.md - Aaron Leu (aal55)
 * Added another topic to section3.md - Aaron Leu (aal55)
+* Added explanations for branches, pull requests, merge conflicts, and forking vs. cloning - Aaron Leu (aal55)
