@@ -14,3 +14,6 @@ Forking is a feature on GitHub that allows a user to take a copy of someone else
 ## Pull Request
 
 ## Adding a Collaborator
+1. Go into your settings on your GitHub repository
+2. Go to the 'Collaborators' Tab and add a collaborator
+3. Enter your password and enter the person's username/email
