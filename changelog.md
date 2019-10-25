@@ -8,10 +8,8 @@
 ## 10/24/2019
 * Added definitions to section1.md - Andrey Morales (anmorales-hub)
 * Added topics to section3.md - Aaron Leu (aal55)
+* Added steps to section3.md - Aaron Leu (aal55)
 * Added examples, additional subtopics, and an image to section1.md - Andrey Morales (anmorales-hub)
-* Added step to section3.md - Aaron Leu (aal55)
-* Added step to section3.md - Aaron Leu (aal55)
-* Added step to section3.md - Aaron Leu (aal55)
 * Added another topic to section3.md - Aaron Leu (aal55)
 * Added section header to section2.md - Kruti Narasu (snkruti)
 * Added definitions to section2.md - Kruti Narasu (snkruti)
@@ -20,3 +18,4 @@
 * Added another subsection to Gitflow section on section2.md - Kruti Narasu (snkruti)
 * Added two more subsections to Gitflow section on section2.md - Kruti Narasu (snkruti)
 * Added more defintions to terms section on section2.md - Kruti Narasu (snkruti)
+* Added explanations for branches, pull requests, merge conflicts, and forking vs. cloning - Aaron Leu (aal55)
