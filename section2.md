@@ -10,6 +10,9 @@ Gitflow makes parallel development really easy by isolating new work from finish
 #### Collaboration:
 Feature branches make it easier for developers to collaborate on the same feature and easily see what other collaborators are doing, becasue changes that are made are only the ones to get the feature working.
 
+#### Release Staging Area:
+The develop branch is the staging area for the features that have been completed, but aren't released yet. When the next release is branched off of develop, it will automatically consist of all of the new stuff that has been finished.
+
 ## Terminology:
 
 Repository: This is your project. It contains all the files and the changes made.
