@@ -15,6 +15,8 @@ The develop branch is the staging area for the features that have been completed
 
 #### Support for Emergency Fixes:
 
+Github supports hotfix branches which allows you to make any emergency changes, knowing that the hotfix will only contain your emergency fix. There’s no risk of accidentally merging in new development at the same time.
+
 ## Terminology:
 
 Repository: This is your project. It contains all the files and the changes made.
