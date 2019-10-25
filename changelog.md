@@ -12,3 +12,4 @@
 * Added examples, additional subtopics, and an image to section1.md - Andrey Morales (anmorales-hub)
 * Added another topic to section3.md - Aaron Leu (aal55)
 * Added explanations for branches, pull requests, merge conflicts, and forking vs. cloning - Aaron Leu (aal55)
+* Added paths to section3.md - Aaron Leu (aal55)
