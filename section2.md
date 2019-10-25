@@ -2,6 +2,8 @@
 
 ### What is Gitflow?
 
+Gitflow is a branching model for Git. It allows for parallel devolopment, collaboration, release staging area, and support for emergency fixes.
+
 ### Terminology:
 
 Repository: This is your project. It contains all the files and the changes made.
