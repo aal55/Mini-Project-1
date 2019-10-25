@@ -19,5 +19,6 @@
 * Added two more subsections to Gitflow section on section2.md - Kruti Narasu (snkruti)
 * Added more defintions to terms section on section2.md - Kruti Narasu (snkruti)
 * Added explanations for branches, pull requests, merge conflicts, and forking vs. cloning - Aaron Leu (aal55)
+* Added paths to section3.md - Aaron Leu (aal55)
 * Added 'sources' file - Kruti Narasu (snkruti)
 * Added contributors' names to README.md - Kruti Narasu (snkruti)
