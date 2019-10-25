@@ -13,6 +13,8 @@ Feature branches make it easier for developers to collaborate on the same featur
 #### Release Staging Area:
 The develop branch is the staging area for the features that have been completed, but aren't released yet. When the next release is branched off of develop, it will automatically consist of all of the new stuff that has been finished.
 
+#### Support for Emergency Fixes:
+
 ## Terminology:
 
 Repository: This is your project. It contains all the files and the changes made.
