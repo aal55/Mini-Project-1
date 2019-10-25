@@ -10,6 +10,7 @@
 Forking is a feature on GitHub that allows a user to take a copy of someone else's repository and use it for their own personal use with the ability to make pull requests. Cloning is a Git concept extremely similar to forking, with the main difference being that cloning allows a person to make an unconnected copy of a repository to place in a directory of their choosing.
 
 ## Branches
+Branches allow users to work on separate tasks in a project. For every Git repository, there is a master branch, which functions as the source branch where changes are finalized. From then on, a user can create their own branch (essentially a copy of the master branch) where they can work on their designated assignments separate from everyone else contributing to the repository. By giving everyone their own separate workspace instead of piling everything in the master branch, branching helps ensure that multiple contributors don't interfere with each other's work.
 
 ## Pull Request
 
