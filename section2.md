@@ -1,5 +1,7 @@
 # Gitflow and Git Commands and Terminology
 
+### What is Gitflow?
+
 ### Terminology:
 
 Repository: This is your project. It contains all the files and the changes made.
